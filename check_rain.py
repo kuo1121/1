@@ -8,7 +8,7 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 LATITUDE = 25.033
 LONGITUDE = 121.5654
-THRESHOLD = 70 
+THRESHOLD = 0 
 
 
 def get_rain_probability():
